@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Tungsten\Tungsten\bin\Debug\homepage.html
+C:\Users\Admin\source\repos\Tungsten\Tungsten\bin\Debug\Tungsten.exe.config
+C:\Users\Admin\source\repos\Tungsten\Tungsten\bin\Debug\Tungsten.exe
+C:\Users\Admin\source\repos\Tungsten\Tungsten\bin\Debug\Tungsten.pdb
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.Form1.resources
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.Properties.Resources.resources
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.exe
+C:\Users\Admin\source\repos\Tungsten\Tungsten\obj\Debug\Tungsten.pdb
+C:\Users\Admin\source\repos\Tungsten\Tungsten\bin\Debug\homepage.css
